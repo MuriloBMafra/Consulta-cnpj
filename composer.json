@@ -1,0 +1,9 @@
+
+{
+    "name":"wdev/speedio",
+    "autoload": {
+        "psr-4":{
+            "App\\":"app/"
+        }
+    }
+}
